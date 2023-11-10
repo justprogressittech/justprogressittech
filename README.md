@@ -1,4 +1,4 @@
-[![PQX Global](./icons/banner.png)](https://justprogressit.tech)
+[![Just Progress IT](./icons/banner.png)](https://justprogressit.tech)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&pause=1000&color=105271&center=true&width=1150&height=60&lines=Just+Progress+IT;Power,+Quality,+Xpertise;In+Technical+Applications;For+Web,+Desktop+and+Mobile)](https://justprogressit.tech/)
 
