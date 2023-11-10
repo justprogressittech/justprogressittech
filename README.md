@@ -1,6 +1,6 @@
-[![PQX Global](./icons/banner.png)](https://pqxglobal.com)
+[![PQX Global](./icons/banner.png)](https://justprogressit.tech)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&pause=1000&color=105271&center=true&width=1150&height=60&lines=PQX+Global;Power,+Quality,+Xpertise;In+Technical+Applications;For+Web,+Desktop+and+Mobile)](https://pqxglobal.com/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&pause=1000&color=105271&center=true&width=1150&height=60&lines=Just+Progress+IT;Power,+Quality,+Xpertise;In+Technical+Applications;For+Web,+Desktop+and+Mobile)](https://justprogressit.tech/)
 
 <div align="center">
 <a href="https://www.pqxglobal.com" title="PQX Global website"><img src="./icons/website.png" alt="Website icon" width="41px" height="41px"></a> 
