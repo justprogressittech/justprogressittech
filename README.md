@@ -47,7 +47,7 @@ PQX Global has more than three decades experience in automation, instrumentation
 <a href="https://pixijs.com/" title="PixiJS"><img src="./icons/pixijs.png" alt="PixiJS logo" width="41px" height="41px"></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API" title="Canvas"><img src="./icons/canvas.png" alt="Canvas" width="36px" height="41px"></a>
 <a href="https://css-tricks.com/" title="CSS3"><img src="./icons/css-3.svg" alt="CSS3" width="36px" height="41px"></a>
-<a href="https://daisyui.com/" title="daisy UI"><img src="./icons/daisy.png" alt="daisy UI" width="41px" height="41px"></a>
+<a href="https://www.radix-ui.com/" title="Radix UI"><img src="./icons/radix-ui.png" alt="Radix UI" width="41px" height="41px"></a>
 <a href="https://tailwindcss.com/" title="Tailwind"><img src="./icons/tailwind.png" alt="Tailwind logo" width="61px" height="41px"></a>
 <a href="https://sass-lang.com/" title="SASS"><img src="./icons/sass.png" alt="SASS logo" width="41px" height="41px"></a>
 ## Development:
