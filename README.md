@@ -83,5 +83,5 @@ PQX Global has more than three decades experience in automation, instrumentation
 ## Hosting & CDN & CI/CD:
 <a href="https://vercel.com/" title="Vercel"><img src="./icons/vercel.png" alt="Vercel logo" width="41px" height="41px"></a>
 # Contact:
-info@pqxglobal.com
+info@justprogressit.tech
  </div>
