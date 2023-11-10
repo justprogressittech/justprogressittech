@@ -1,6 +1,6 @@
 [![Just Progress IT](./icons/control-room-banner.png)](https://justprogressit.tech)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&pause=1000&color=105271&center=true&width=1150&height=60&lines=Just+Progress+IT;Progression,+Quality,+Xpertise;In+Web+Sites,+Web+Applications+and+e-commerce+solutions)](https://justprogressit.tech/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&pause=1000&color=105271&center=true&width=1150&height=60&lines=Just+Progress+IT;The+leading+software+engineering+company+for+the+industry;For+Web+Sites,+Web+Applications+and+e-commerce+solutions)](https://justprogressit.tech/)
 
 <div align="center">
 <a href="https://www.pqxglobal.com" title="PQX Global website"><img src="./icons/website.png" alt="Website icon" width="41px" height="41px"></a> 
