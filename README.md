@@ -7,9 +7,17 @@
 <a href="https://www.linkedin.com/company/pqx-global" title="Linkedin"><img src="./icons/linkedin.png" alt="Linkedin logo" width="41px" height="41px"></a>
 <a href="https://www.youtube.com/@pqx-global" title="Youtube"><img src="./icons/youtube.png" alt="Youtube logo" width="41px" height="41px"></a>
 
-# Company Story:
+# About Us:
 <div align="left">
-PQX Global has more than three decades experience in automation, instrumentation and electrical installations. PQX Global loves the challenge of developing innovative solutions to complex problems. We are passionate about pushing boundaries and delivering results that exceed expectations. Making the world go round, one project at a time. PQX Global is at the forefront of developing efficient applications for energy, mobility, and industry.
+<h3>2008 – 2015: Instrucontrols Era</h3>
+JustProgressIT's journey began in 2008 as Instrucontrols, specializing in project support, commissioning management, and supervision within the electrotechnical and instrumentation discipline. During this phase, the company successfully supported multiple construction projects for prominent engineering and operating companies like Shell, BP, Fluor, and CB&I Lummus.
+<h3>2015 – 2019: Easypower Europ Ventures</h3>
+In 2015, Instrucontrols transformed into Easypower Europ, focusing on sales, project support, and software development support for EasyPower® electrotechnical engineering software. The company played a pivotal role in modifying the EasyPower® software for the European market. Subsequently, the EasyPower® software achieved successful sales, being acquired by Bentley Systems®. During this period, Easypower Europ also embarked on the development of the AGM Advanced Generator Monitoring system. Although the apparatus was successfully completed and commissioned, it didn't make it to sales. Nevertheless, the AGM continues to be utilized for testing generators.
+<h3>2019 – 2023: PQX Global and Adaptation</h3>
+Pivoting in 2019, the company transformed into PQX Global, aiming to establish an e-commerce platform for the sales of electrical personal protective equipment (PPE). Unfortunately, intense competition led to the difficult decision to halt this venture. During the challenging period of the COVID-19 pandemic, the company adapted by embracing a full-time study on web development.
+<h3>2023 – Present: JustProgressIT Emerges</h3>
+In 2023, JustProgressIT emerged from the shadows, focusing on the development of websites, web applications, and e-commerce sites. The company's ethos revolves around embracing challenges and providing innovative solutions to complex problems. JustProgressIT has a passion for pushing boundaries, consistently delivering results that surpass expectations. Positioned at the forefront of technological advancements, the company is dedicated to developing efficient applications for sectors such as energy, mobility, and industry but other sectors are also welcome. Making the world go round, one project at a time, JustProgressIT is committed to progress and excellence in the ever-evolving landscape of web development, web applications and e-commerce solutions.
+
 
 ## Some examples of past projects:
  
@@ -29,7 +37,7 @@ PQX Global has more than three decades experience in automation, instrumentation
 - Commissioning of a <a href="https://www.youtube.com/watch?v=mLjOg9j3WgU" title="Natural Gas Plant">Natural Gas Plant</a>.
 <div align="center">  
   
-# PQX Global is ready to bring Power, Quality and Expertise to your Next project by using the following tech stack:
+# Just Progress IT is ready to bring Progression, Quality and Expertise to your Next project by using the following tech stack:
  <div>&nbsp;</div>
 
 ## Project Management:
