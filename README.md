@@ -27,7 +27,7 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
 -	Software Translations for the AGM <a href="https://www.youtube.com/watch?v=wu27rzasVNM" title="AGM">Advanced generator monitor</a>.
 -	Engineering of hardware for the AGM <a href="https://www.youtube.com/watch?v=wu27rzasVNM" title="AGM">Advanced generator monitor</a>.
 - Engineering for electrical system study at a <a href="https://www.youtube.com/watch?v=NgORKTMjjvM" title="Food Processing">Food Processing Plant</a>.
--	Construction of a <a href="chemical-plant.md" title="Chemical Plant">Chemical Plant</a> for FLUOR at BASF.
+-	Construction of a <a href="chemical-plant.md" title="Chemical Plant">Chemical Plant</a> for FLUOR at BASF Ludwigshafen.
 -	Construction of a <a href="https://www.youtube.com/watch?v=eY9Lo7Aqo4g" title="Laboratory">Laboratory</a> for SIEMENS at SHELL Amsterdam.
 -	Construction of a <a href="https://www.youtube.com/watch?v=r-J392UzpyI" title="Catalytic Reactor">Catalytic Reactor</a> for SHELL at SHELL Moerdijk.
 -	Construction of a <a href="refinery.md" title="Refinery">Refinery</a> for <a href="https://www.neste.com/en" title="Neste">NESTE</a>.
