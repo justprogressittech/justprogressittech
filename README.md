@@ -33,7 +33,7 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
 -	Construction of a <a href="https://www.youtube.com/watch?v=wmFy6a8g6-Y" title="LNG Plant">LNG Plant</a> for STATOIL at HEEREMA Zwijndrecht.
 -	Construction of 5 <a href="power-plant.md" title="Power Plants">Power Plants</a>.
  -	Construction of a <a href="https://www.youtube.com/watch?v=mtUVJRciSbA" title="Waste Incinerator">Waste Incinerator</a>.
--	Commissioning of 2 <a href="https://www.youtube.com/watch?v=IVUcauJSbQY" title="Drilling Rigs">Drilling Rigs</a>.
+-	Commissioning of 2 <a href="https://www.youtube.com/watch?v=IVUcauJSbQY" title="Drilling Rigs">Drilling Rigs</a> for BP at MERCON Gorinchem.
 - Commissioning of a <a href="https://www.youtube.com/watch?v=mLjOg9j3WgU" title="Natural Gas Plant">Natural Gas Plant</a>.
 <div align="center">  
   
