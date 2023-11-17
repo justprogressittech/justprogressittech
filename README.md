@@ -24,7 +24,7 @@ In 2023, JustProgressIT emerged from the shadows, focusing on the development of
 -	Software Development of an application for cable pulling at a <a href="https://www.youtube.com/watch?v=0khaNwUIq2U&t=7s" title="Drilling Rig">Drilling rig</a>.
 -	Software Development of an application for commissioning of a <a href="https://en.wikipedia.org/wiki/Infraspeed" title="HSL">High speed railway</a>.
 - Software Development of a webshop for safety gear with <a href="https://www.lightspeedhq.com/" title="Lightspeed">Lightspeed</a>.
--	Software translations for the AGM <a href="https://www.youtube.com/watch?v=wu27rzasVNM" title="AGM">Advanced generator monitor</a>.
+-	Software Translations for the AGM <a href="https://www.youtube.com/watch?v=wu27rzasVNM" title="AGM">Advanced generator monitor</a>.
 -	Engineering of hardware for the AGM <a href="https://www.youtube.com/watch?v=wu27rzasVNM" title="AGM">Advanced generator monitor</a>.
 - Engineering for electrical system study at a <a href="https://www.youtube.com/watch?v=NgORKTMjjvM" title="Food Processing">Food Processing Plant</a>.
 -	Construction of a <a href="chemical-plant.md" title="Chemical Plant">Chemical Plant</a>.
