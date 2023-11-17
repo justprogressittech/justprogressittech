@@ -21,7 +21,7 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
 
 ## Some examples of past projects:
  
--	Software Development of an application for cable pulling at a Drilling rig for <a href="https://www.dolphindrilling.com/our-fleet/blackford-dolphin" title="Dolphin Drilling">DOLPHIN DRILLING</a href="https://www.damen.com/companies/shiprepair/damen-verolme-rotterdam" title="Damen Verolme Rotterdam"> at <a>DAMEN VEROLME</a> Rotterdam, The Netherlands.
+-	Software Development of an application for cable pulling at a Drilling rig for <a href="https://www.dolphindrilling.com/our-fleet/blackford-dolphin" title="Dolphin Drilling">DOLPHIN DRILLING</a > at <a href="https://www.damen.com/companies/shiprepair/damen-verolme-rotterdam" title="Damen Verolme Rotterdam">DAMEN VEROLME</a> Rotterdam, The Netherlands.
 -	Software Development of an application for commissioning of a <a href="https://en.wikipedia.org/wiki/Infraspeed" title="HSL">High speed railway</a>.
 - Software Development of a webshop for safety gear with <a href="https://www.lightspeedhq.com/" title="Lightspeed">Lightspeed</a>.
 -	Software Translations for the AGM <a href="https://www.youtube.com/watch?v=wu27rzasVNM" title="AGM">Advanced generator monitor</a>.
