@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href="https://www.justprogressit.tech" title="Just Progress IT website"><img src="./icons/website.png" alt="Website icon" width="41px" height="41px"></a> 
-<a href="https://www.linkedin.com/company/pqx-global" title="Linkedin"><img src="./icons/linkedin.png" alt="Linkedin logo" width="41px" height="41px"></a>
+<a href="https://www.linkedin.com/company/justprogressit" title="Linkedin"><img src="./icons/linkedin.png" alt="Linkedin logo" width="41px" height="41px"></a>
 <a href="https://www.youtube.com/@JustProgressIT" title="Youtube"><img src="./icons/youtube.png" alt="Youtube logo" width="41px" height="41px"></a>
 
 # About Us:
