@@ -27,7 +27,7 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
 - Software Development of a webshop for electrical safety gear with <a href="https://www.lightspeedhq.com/" title="Lightspeed">LIGHTSPEED</a>.
 -	Software Translations for the AGM <a href="https://www.youtube.com/watch?v=wu27rzasVNM" title="AGM">Advanced generator monitor</a> in Dutch and German.
 -	Engineering of hardware for the AGM <a href="https://www.youtube.com/watch?v=wu27rzasVNM" title="AGM">Advanced generator monitor</a>.
-- Engineering for electrical system study at a <a href="https://www.youtube.com/watch?v=NgORKTMjjvM" title="Food Processing">Food Processing Plant</a> at <a href="https://www.adm.com/">ADM</a> in <a href="https://www.google.com/maps/search/adm/@48.9016631,12.5943983,13z?authuser=0&entry=ttu">Straubing, Germany</a>.
+- Engineering for electrical system study at a <a href="https://www.youtube.com/watch?v=NgORKTMjjvM" title="Food Processing">Food Processing Plant</a> for <a href="https://www.adm.com/">ADM</a> in <a href="https://www.google.com/maps/search/adm/@48.9016631,12.5943983,13z?authuser=0&entry=ttu">Straubing, Germany</a>.
 -	Construction of a <a href="chemical-plant.md" title="Chemical Plant">Chemical Plant</a> for <a href="https://www.fluor.com/">FLUOR</a> at <a href="https://www.basf.com/global/en/who-we-are/organization/locations/europe/german-sites/ludwigshafen.html">BASF</a> Ludwigshafen.
 -	Construction of a <a href="https://www.youtube.com/watch?v=eY9Lo7Aqo4g" title="Laboratory">Laboratory</a> for SIEMENS at <a href="https://www.energytransitioncampus.com/">SHELL</a> Amsterdam.
 -	Construction of a <a href="https://www.youtube.com/watch?v=r-J392UzpyI" title="Catalytic Reactor">Catalytic Reactor</a> for SHELL at SHELL Moerdijk.
