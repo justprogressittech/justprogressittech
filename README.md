@@ -23,7 +23,7 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
  
 -	Software Development of an application for cable pulling at a Drilling rig for <a href="https://www.dolphindrilling.com/our-fleet/blackford-dolphin">Dolphin Drilling</a > at <a href="https://www.damen.com/companies/shiprepair/damen-verolme-rotterdam">DAMEN VEROLME</a> Rotterdam, The Netherlands.
 -	Software Development of an application for commissioning of a <a href="https://en.wikipedia.org/wiki/HSL-Zuid">High speed railway</a> for <a href="https://www.mobility.siemens.com/global/en.html">SIEMENS</a> at <a href="https://en.wikipedia.org/wiki/Infraspeed">INFRASPEED</a> <a href="https://www.google.com/maps/search/siemens+zoetermeer/@52.0463011,4.5091092,17z?authuser=0&entry=ttu">Zoetermeer, The Netherlands</a>.
--	Software Development of an application for commissioning of 2 <a href="https://www.youtube.com/watch?v=IVUcauJSbQY" title="Drilling Rigs">Drilling Rigs</a> for <a href="https://www.bp.com/">BP</a> at <a href="https://www.mercon.com/">MERCON</a> Gorinchem.
+-	Software Development of an application for commissioning of 2 <a href="https://www.youtube.com/watch?v=IVUcauJSbQY" title="Drilling Rigs">Drilling Rigs</a> for <a href="https://www.bp.com/">BP</a> at <a href="https://www.mercon.com/">MERCON</a> Gorinchem, the Netherlands.
 - Software Development of a webshop for electrical safety gear with <a href="https://www.lightspeedhq.com/" title="Lightspeed">LIGHTSPEED</a>.
 -	Software Translations for the AGM <a href="https://www.youtube.com/watch?v=wu27rzasVNM" title="AGM">Advanced generator monitor</a> in Dutch and German.
 -	Engineering of hardware for the AGM <a href="https://www.youtube.com/watch?v=wu27rzasVNM" title="AGM">Advanced generator monitor</a>.
