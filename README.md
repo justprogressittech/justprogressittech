@@ -10,7 +10,7 @@
 # About Us:
 <div align="left">
 <h3>2008 – 2015: Instrucontrols Era</h3>
-JustProgressIT's journey began in 2008 as Instrucontrols, specializing in project support, commissioning management, and supervision within the electrotechnical and instrumentation discipline. During this phase, the company successfully supported multiple construction and commissioning projects for prominent engineering and operating companies like Shell, BP, Fluor, and CB&I Lummus.
+JustProgressIT's journey began in 2008 as Instrucontrols, specializing in project support, commissioning management, and supervision within the electrotechnical and instrumentation discipline. During this phase, the company successfully supported multiple construction and commissioning projects for prominent engineering and operating companies like Shell, BP, Fluor, and CB&I (now McDermott).
 <h3>2015 – 2019: Easypower Europ Ventures</h3>
 In 2015, Instrucontrols transformed into Easypower Europ, focusing on sales, project support, and software development support for EasyPower® electrotechnical engineering software. The company played a pivotal role in modifying the EasyPower® software for the European market. Subsequently, the EasyPower® software achieved successful sales, being acquired by Bentley Systems®. During this period, Easypower Europ also embarked on the development of the AGM Advanced Generator Monitoring system. Although the apparatus was successfully completed and commissioned, it didn't make it to sales. Nevertheless, the AGM continues to be utilized for testing generators.
 <h3>2019 – 2023: PQX Global and Adaptation</h3>
