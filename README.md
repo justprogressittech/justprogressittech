@@ -23,7 +23,7 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
  
 -	Software Development of an application for cable pulling at a Drilling rig for <a href="https://www.dolphindrilling.com/our-fleet/blackford-dolphin">Dolphin Drilling</a > at <a href="https://www.damen.com/companies/shiprepair/damen-verolme-rotterdam">DAMEN VEROLME</a> Rotterdam, The Netherlands.
 -	Software Development of an application for commissioning of a <a href="https://en.wikipedia.org/wiki/HSL-Zuid">High speed railway</a> for <a href="https://www.mobility.siemens.com/global/en.html">SIEMENS</a> at <a href="https://en.wikipedia.org/wiki/Infraspeed">INFRASPEED</a> <a href="https://www.google.com/maps/search/siemens+zoetermeer/@52.0463011,4.5091092,17z?authuser=0&entry=ttu">Zoetermeer, The Netherlands</a>.
--	Software Development of an application for commissioning of 2 <a href="https://www.youtube.com/watch?v=IVUcauJSbQY" title="Drilling Rigs">Drilling Rigs</a> for <a href="https://www.bp.com/">BP</a> at <a href="https://www.mercon.com/">MERCON</a> <a href="https://www.google.com/maps/place/Mercon+Montage/@51.8281914,4.9615524,15z/data=!4m6!3m5!1s0x47c685e11636c165:0x6a2a3105ca530c9b!8m2!3d51.8281914!4d4.9615524!16s%2Fg%2F1tgw93l_?entry=ttu">Gorinchem, the Netherlands</a>.
+-	Software Development of an application for commissioning of 2 <a href="https://www.youtube.com/watch?v=IVUcauJSbQY" title="Drilling Modules">Drilling Rigs</a> for <a href="https://www.bp.com/">BP</a> at <a href="https://www.mercon.com/">MERCON</a> <a href="https://www.google.com/maps/place/Mercon+Montage/@51.8281914,4.9615524,15z/data=!4m6!3m5!1s0x47c685e11636c165:0x6a2a3105ca530c9b!8m2!3d51.8281914!4d4.9615524!16s%2Fg%2F1tgw93l_?entry=ttu">Gorinchem, the Netherlands</a>.
 - Software Development of a webshop for electrical safety gear with <a href="https://www.lightspeedhq.com/" title="Lightspeed">LIGHTSPEED</a>.
 -	Software Translations for the AGM <a href="https://www.youtube.com/watch?v=wu27rzasVNM" title="AGM">Advanced generator monitor</a> in Dutch and German.
 -	Engineering of hardware for the AGM <a href="https://www.youtube.com/watch?v=wu27rzasVNM" title="AGM">Advanced generator monitor</a>.
@@ -34,7 +34,7 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
 -	Construction of a <a href="https://www.youtube.com/watch?v=wmFy6a8g6-Y" title="LNG Plant">LNG Plant</a> for <a href="https://www.equinor.com/energy/snohvit">STATOIL</a> (now Equinor) at <a href="https://www.heerema.com/heerema-fabrication-group">HEEREMA</a> Zwijndrecht, the Netherlands.
 -	Construction of 5 <a href="power-plant.md" title="Power Plants">Power Plants</a> in the Netherlands.
  -	Construction of a <a href="https://www.youtube.com/watch?v=mtUVJRciSbA" title="Waste Incinerator">Waste Incinerator</a> for <a href="https://www.attero.nl/en/">ATTERO</a> in Moerdijk, the Netherlands.
--	Commissioning of 2 <a href="https://www.youtube.com/watch?v=IVUcauJSbQY" title="Drilling Rigs">Drilling Rigs</a> for <a href="https://www.bp.com/">BP</a> at <a href="https://www.mercon.com/">MERCON</a> Gorinchem.
+-	Commissioning of 2 <a href="https://www.youtube.com/watch?v=IVUcauJSbQY" title="Drilling Modules">Drilling Rigs</a> for <a href="https://www.bp.com/">BP</a> at <a href="https://www.mercon.com/">MERCON</a> Gorinchem.
 - Commissioning of a <a href="https://www.youtube.com/watch?v=mLjOg9j3WgU" title="Natural Gas Plant">Natural Gas Plant</a> for <a href="https://www.naturgy.com/en/">Unión Fenosa</a> in Spain.
 <div align="center">  
   
