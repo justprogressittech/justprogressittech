@@ -25,7 +25,7 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
 -	Software Development of an application for commissioning of a <a href="https://en.wikipedia.org/wiki/HSL-Zuid">High speed railway</a> for <a href="https://www.mobility.siemens.com/global/en.html">SIEMENS</a> at <a href="https://en.wikipedia.org/wiki/Infraspeed">INFRASPEED</a> Zoetermeer, The Netherlands.
 -	Software Development of an application for commissioning of 2 <a href="https://www.youtube.com/watch?v=IVUcauJSbQY" title="Drilling Rigs">Drilling Rigs</a> for <a href="https://www.bp.com/">BP</a> at <a href="https://www.mercon.com/">MERCON</a> Gorinchem.
 - Software Development of a webshop for electrical safety gear with <a href="https://www.lightspeedhq.com/" title="Lightspeed">LIGHTSPEED</a>.
--	Software Translations for the AGM <a href="https://www.youtube.com/watch?v=wu27rzasVNM" title="AGM">Advanced generator monitor</a>.
+-	Software Translations for the AGM <a href="https://www.youtube.com/watch?v=wu27rzasVNM" title="AGM">Advanced generator monitor</a> in Dutch and German.
 -	Engineering of hardware for the AGM <a href="https://www.youtube.com/watch?v=wu27rzasVNM" title="AGM">Advanced generator monitor</a>.
 - Engineering for electrical system study at a <a href="https://www.youtube.com/watch?v=NgORKTMjjvM" title="Food Processing">Food Processing Plant</a> at <a href="https://www.adm.com/">ADM</a> in Germany.
 -	Construction of a <a href="chemical-plant.md" title="Chemical Plant">Chemical Plant</a> for <a href="https://www.fluor.com/">FLUOR</a> at <a href="https://www.basf.com/global/en/who-we-are/organization/locations/europe/german-sites/ludwigshafen.html">BASF</a> Ludwigshafen.
