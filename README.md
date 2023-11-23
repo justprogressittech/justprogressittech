@@ -34,7 +34,7 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
 -	Construction of 5 <a href="power-plant.md" title="Power Plants">Power Plants</a> in the Netherlands.
  -	Construction of a <a href="https://www.youtube.com/watch?v=mtUVJRciSbA" title="Waste Incinerator">Waste Incinerator</a>.
 -	Commissioning of 2 <a href="https://www.youtube.com/watch?v=IVUcauJSbQY" title="Drilling Rigs">Drilling Rigs</a> for BP at <a href="https://www.mercon.com/">MERCON</a> Gorinchem.
-- Commissioning of a <a href="https://www.youtube.com/watch?v=mLjOg9j3WgU" title="Natural Gas Plant">Natural Gas Plant</a> for Unión Fenosa in Spain.
+- Commissioning of a <a href="https://www.youtube.com/watch?v=mLjOg9j3WgU" title="Natural Gas Plant">Natural Gas Plant</a> for <a href="https://www.naturgy.com/en/">Unión Fenosa</a> in Spain.
 <div align="center">  
   
 # Just Progress IT is ready to bring Progression, Quality and Expertise to your Next project by using the following tech stack:
