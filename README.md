@@ -43,6 +43,7 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
 
 ## Project Management:
 <a href="https://clickup.com/" title="Clickup"><img src="./icons/clickup.png" alt="Clickup logo" width="36px" height="41px"></a>
+<a href="https://www.wrike.com/" title="Wrike"><img src="./icons/wrike.png" alt="Wrike logo" width="61px" height="41px"></a>
 ## Architecture:
 <a href="https://www.diagrams.net/" title="Diagrams"><img src="./icons/diagrams.png" alt="Diagrams logo" width="41px" height="41px"></a>
 ## Design:
