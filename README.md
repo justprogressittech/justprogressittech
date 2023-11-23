@@ -21,9 +21,9 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
 
 ## Some examples of past projects:
  
--	Software Development of an application for cable pulling at a Drilling rig for <a href="https://www.dolphindrilling.com/our-fleet/blackford-dolphin">Dolphin Drilling</a > at <a href="https://www.damen.com/companies/shiprepair/damen-verolme-rotterdam">Damen Verolme</a> Rotterdam, The Netherlands.
--	Software Development of an application for commissioning of a <a href="https://en.wikipedia.org/wiki/HSL-Zuid">High speed railway</a> for <a href="https://www.mobility.siemens.com/global/en.html">Siemens</a> at <a href="https://en.wikipedia.org/wiki/Infraspeed">Infraspeed</a> Zoetermeer, The Netherlands.
-- Software Development of a webshop for safety gear with <a href="https://www.lightspeedhq.com/" title="Lightspeed">Lightspeed</a>.
+-	Software Development of an application for cable pulling at a Drilling rig for <a href="https://www.dolphindrilling.com/our-fleet/blackford-dolphin">Dolphin Drilling</a > at <a href="https://www.damen.com/companies/shiprepair/damen-verolme-rotterdam">DAMEN VEROLME</a> Rotterdam, The Netherlands.
+-	Software Development of an application for commissioning of a <a href="https://en.wikipedia.org/wiki/HSL-Zuid">High speed railway</a> for <a href="https://www.mobility.siemens.com/global/en.html">SIEMENS</a> at <a href="https://en.wikipedia.org/wiki/Infraspeed">INFRASPEED</a> Zoetermeer, The Netherlands.
+- Software Development of a webshop for safety gear with <a href="https://www.lightspeedhq.com/" title="Lightspeed">LIGHTSPEED</a>.
 -	Software Translations for the AGM <a href="https://www.youtube.com/watch?v=wu27rzasVNM" title="AGM">Advanced generator monitor</a>.
 -	Engineering of hardware for the AGM <a href="https://www.youtube.com/watch?v=wu27rzasVNM" title="AGM">Advanced generator monitor</a>.
 - Engineering for electrical system study at a <a href="https://www.youtube.com/watch?v=NgORKTMjjvM" title="Food Processing">Food Processing Plant</a> at <a href="https://www.adm.com/">ADM</a> in Germany.
