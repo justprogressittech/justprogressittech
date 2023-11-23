@@ -39,7 +39,6 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
   
 # Just Progress IT is ready to bring Progression, Quality and Expertise to your Next project by using the following tech stack:
  <div>&nbsp;</div>
-
 ## Project Management:
 <a href="https://www.wrike.com/" title="Wrike"><img src="./icons/wrike.png" alt="Wrike logo" width="61px" height="41px"></a>
 ## Architecture:
