@@ -34,7 +34,7 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
 -	Construction of a <a href="https://www.youtube.com/watch?v=wmFy6a8g6-Y" title="LNG Plant">LNG Plant</a> for <a href="https://www.equinor.com/energy/snohvit">STATOIL</a> (now Equinor) at <a href="https://www.heerema.com/heerema-fabrication-group">HEEREMA</a> Zwijndrecht, the Netherlands.
 -	Construction of 5 <a href="power-plant.md" title="Power Plants">Power Plants</a> in the Netherlands.
  -	Construction of a <a href="https://www.youtube.com/watch?v=mtUVJRciSbA" title="Waste Incinerator">Waste Incinerator</a> for <a href="https://www.attero.nl/en/">ATTERO</a> in Moerdijk, the Netherlands.
--	Commissioning of 2 <a href="https://www.youtube.com/watch?v=IVUcauJSbQY" title="Drilling Modules">Drilling Rigs</a> for <a href="https://www.bp.com/">BP</a> at <a href="https://www.mercon.com/">MERCON</a> Gorinchem.
+-	Commissioning of 2 <a href="https://www.youtube.com/watch?v=IVUcauJSbQY" title="Drilling Modules">Drilling Rigs</a> for <a href="https://www.bp.com/">BP</a> at <a href="https://www.mercon.com/">MERCON</a> in Gorinchem, the Netherlands.
 - Commissioning of a <a href="https://www.youtube.com/watch?v=mLjOg9j3WgU" title="Natural Gas Plant">Natural Gas Plant</a> for <a href="https://www.naturgy.com/en/">Unión Fenosa</a> in Spain.
 <div align="center">  
   
