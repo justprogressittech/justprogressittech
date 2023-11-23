@@ -28,7 +28,7 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
 -	Engineering of hardware for the AGM <a href="https://www.youtube.com/watch?v=wu27rzasVNM" title="AGM">Advanced generator monitor</a>.
 - Engineering for electrical system study at a <a href="https://www.youtube.com/watch?v=NgORKTMjjvM" title="Food Processing">Food Processing Plant</a> at <a href="https://www.adm.com/">ADM</a> in Germany.
 -	Construction of a <a href="chemical-plant.md" title="Chemical Plant">Chemical Plant</a> for <a href="https://www.fluor.com/">FLUOR</a> at <a href="https://www.basf.com/global/en/who-we-are/organization/locations/europe/german-sites/ludwigshafen.html">BASF</a> Ludwigshafen.
--	Construction of a <a href="https://www.youtube.com/watch?v=eY9Lo7Aqo4g" title="Laboratory">Laboratory</a> for SIEMENS at <a href="https://www.shell.com/energy-and-innovation/the-role-technology-plays/shell-technology-centres.html">SHELL</a> Amsterdam.
+-	Construction of a <a href="https://www.youtube.com/watch?v=eY9Lo7Aqo4g" title="Laboratory">Laboratory</a> for SIEMENS at <a href="https://www.energytransitioncampus.com/">SHELL</a> Amsterdam.
 -	Construction of a <a href="https://www.youtube.com/watch?v=r-J392UzpyI" title="Catalytic Reactor">Catalytic Reactor</a> for SHELL at SHELL Moerdijk.
 -	Construction of a <a href="https://www.youtube.com/watch?v=wmFy6a8g6-Y" title="LNG Plant">LNG Plant</a> for STATOIL at HEEREMA Zwijndrecht.
 -	Construction of 5 <a href="power-plant.md" title="Power Plants">Power Plants</a> in the Netherlands.
