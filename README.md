@@ -92,5 +92,5 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
 <a href="https://vercel.com/" title="Vercel"><img src="./icons/vercel.png" alt="Vercel logo" width="41px" height="41px"></a>
 <a href="https://github.com/justprogressittech" title="Github"><img src="./icons/github-logo.png" alt="Github logo" width="41px" height="41px"></a>
 # Contact:
-info@justprogressit.tech
+<h2>info@justprogressit.tech</h2>
  </div>
