@@ -76,6 +76,8 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
 <a href="https://securityheaders.com/" title="Probely"><img src="./icons/probely.png" alt="Probely logo" width="41px" height="41px"></a>
 ## Testing:
 <a href="https://playwright.dev/" title="Playwright"><img src="./icons/playwright.png" alt="Playwright logo" width="51px" height="41px"></a>
+<a href="https://jestjs.io/" title="Jest"><img src="./icons/jest.png" alt="Jest logo" width="41px" height="41px"></a>
+<a href="https://testing-library.com/" title="Testing Library"><img src="./icons/testing-library.png" alt="Testing Library logo" width="41px" height="41px"></a>
 <a href="https://www.postman.com/" title="Postman"><img src="./icons/postman.png" alt="Postman logo" width="41px" height="41px"></a>
 <a href="https://www.mockaroo.com/" title="Mockaroo"><img src="./icons/mockaroo.png" alt="Mockaroo logo" width="61px" height="41px"></a>
 <a href="https://jsonplaceholder.typicode.com/" title="JSON"><img src="./icons/json.png" alt="JSON logo" width="41px" height="41px"></a>
