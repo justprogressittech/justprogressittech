@@ -88,10 +88,12 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
 <a href="https://stripe.com/" title="Stripe"><img src="./icons/stripe.png" alt="Stripe logo" width="41px" height="41px"></a>
 ## Mailing:
 <a href="https://mailchimp.com/" title="Mailchimp"><img src="./icons/mailchimp.png" alt="Mailchimp logo" width="41px" height="41px"></a>
-## Hosting & CI/CD:
-<a href="https://vercel.com/" title="Vercel"><img src="./icons/vercel.png" alt="Vercel logo" width="41px" height="41px"></a>
+## CI/CD:
 <a href="https://github.com/justprogressittech" title="Github"><img src="./icons/github-logo.png" alt="Github logo" width="41px" height="41px"></a>
 <a href="https://docs.github.com/en/actions" title="Github Actions"><img src="./icons/github-actions.png" alt="Github Actions logo" width="41px" height="41px"></a>
+<a href="https://git-scm.com/docs/githooks" title="Git Hooks"><img src="./icons/githooks.jpg" alt="Git Hooks logo" width="41px" height="41px"></a>
+## Hosting:
+<a href="https://vercel.com/" title="Vercel"><img src="./icons/vercel.png" alt="Vercel logo" width="41px" height="41px"></a>
 # Contact:
 <h2>info@justprogressit.tech</h2>
  </div>
