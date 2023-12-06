@@ -66,8 +66,7 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
 <a href="https://nodejs.org/en/" title="Node Js"><img src="./icons/node.png" alt="Node Js logo" width="61px" height="41px"></a>
 <a href="https://redux.js.org/" title="Redux"><img src="./icons/redux.png" alt="Redux logo" width="41px" height="41px"></a>
 <a href="https://mdxjs.com/" title="MDX"><img src="./icons/mdx.png" alt="MDX" width="61px" height="41px"></a>
-<a href="" title="Formik"><img src="./icons/formik.png" alt="Formik" width="41px" height="41px"></a>
-
+<a href="https://formik.org/" title="Formik"><img src="./icons/formik.png" alt="Formik" width="41px" height="41px"></a>
 <a href="https://aws.amazon.com/what-is/sql/" title="SQL"><img src="./icons/sql.png" alt="SQL logo" width="41px" height="41px"></a>
 ## Databases:
 <a href="https://supabase.com/" title="Supabase"><img src="./icons/supabase.png" alt="Supabase logo" width="32" height="41"></a>
