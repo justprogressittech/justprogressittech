@@ -37,7 +37,7 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
 - Commissioning of a <a href="https://www.youtube.com/watch?v=mLjOg9j3WgU" title="Natural Gas Plant">Natural Gas Plant</a> for <a href="https://www.naturgy.com/en/">UNIÓN FENOSA</a> (now Naturgy) in <a href="https://www.google.com/maps/place/HEYCO,+PLANTA+DE+PRODUCCI%C3%93N+DE+GAS+%22VIURA%22/@42.4040049,-2.5937979,976m/data=!3m1!1e3!4m15!1m8!3m7!1s0xd5aab4130b390b1:0xf98252918a168870!2sLogro%C3%B1o,+La+Rioja,+Spain!3b1!8m2!3d42.4627195!4d-2.4449852!16zL20vMDFyc2o4!3m5!1s0xd455192239c1d0f:0x8469faa844a95b06!8m2!3d42.4047508!4d-2.5904264!16s%2Fg%2F11g1ftdy98?authuser=0&entry=ttu">Hornos de Moncalvillo, Spain</a>.
 <div align="center">  
   
-# Just Progress IT is ready to bring Progression, Quality and Expertise to your Next project by using the following tech stack:
+# Just Progress IT is ready to bring Progression, Quality and Expertise to your Next industrial web project by using the following tech stack:
  <div>&nbsp;</div>
 
 ## Project Management:
