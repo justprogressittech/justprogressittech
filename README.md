@@ -59,10 +59,8 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
 <a href="https://sass-lang.com/" title="SASS"><img src="./icons/sass.png" alt="SASS logo" width="41px" height="41px"></a>
 ## Development:
 <a href="https://html.com/html5/" title="HTML5"><img src="./icons/html-5.svg" alt="HTML5" width="31px" height="41px"></a>
-<a href="https://www.javascript.com/" title="Javascript"><img src="./icons/javascript.svg" alt="Javascript logo" width="41px" height="41px"></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="./icons/typescript.png" alt="Typescript logo" width="41px" height="41px"></a>
 <a href="https://nextjs.org/" title="Next"><img src="./icons/next.png" alt="Next logo" width="41px" height="41px"></a>
-<a href="https://nodejs.org/en/" title="Node Js"><img src="./icons/node.png" alt="Node Js logo" width="61px" height="41px"></a>
 <a href="https://redux.js.org/" title="Redux"><img src="./icons/redux.png" alt="Redux logo" width="41px" height="41px"></a>
 <a href="https://mdxjs.com/" title="MDX"><img src="./icons/mdx.png" alt="MDX" width="61px" height="41px"></a>
 <a href="https://formik.org/" title="Formik"><img src="./icons/formik.png" alt="Formik" width="41px" height="41px"></a>
