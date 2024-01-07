@@ -85,12 +85,6 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
 <a href="https://developers.google.com/search/docs/appearance/structured-data" title="Google Developers"><img src="./icons/google-dev.png" alt="Google Developers logo" width="61px" height="31px"></a>
 <a href="https://developer.chrome.com/docs/lighthouse/overview/" title="Lighthouse"><img src="./icons/lighthouse.png" alt="Lighthouse logo" width="41px" height="41px"></a>
 <a href="https://sentry.io/welcome/?" title="Sentry"><img src="./icons/sentry.png" alt="Sentry logo" width="41px" height="41px"></a>
-## SEO:
-<a href="https://www.link-assistant.com/" title="SEO Power Suite"><img src="./icons/seopowersuite.png" alt="SEO Power Suite logo" width="41px" height="41px"></a>
-## Payments:
-<a href="https://stripe.com/" title="Stripe"><img src="./icons/stripe.png" alt="Stripe logo" width="41px" height="41px"></a>
-## Mailing:
-<a href="https://mailchimp.com/" title="Mailchimp"><img src="./icons/mailchimp.png" alt="Mailchimp logo" width="41px" height="41px"></a>
 ## Version Control & CI/CD:
 <a href="https://git-scm.com/" title="Git"><img src="./icons/git-icon.svg" alt="Git logo" width="41px" height="41px"></a>
 <a href="https://git-scm.com/docs/githooks" title="Git Hooks"><img src="./icons/githooks.jpg" alt="Git Hooks logo" width="41px" height="41px"></a>
