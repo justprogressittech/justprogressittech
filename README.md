@@ -72,6 +72,7 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
 ## Security:
 <a href="https://snyk.io/" title="Snyk"><img src="./icons/snyk.png" alt="Snyk logo" width="41px" height="41px"></a>
 <a href="https://securityheaders.com/" title="Probely"><img src="./icons/probely.png" alt="Probely logo" width="41px" height="41px"></a>
+<a href="https://next-auth.js.org/" title="NextAuth"><img src="./icons/nextauth.png" alt="NextAth logo" width="41px" height="41px"></a>
 ## Testing:
 <a href="https://playwright.dev/" title="Playwright"><img src="./icons/playwright.png" alt="Playwright logo" width="51px" height="41px"></a>
 <a href="https://jestjs.io/" title="Jest"><img src="./icons/jest.png" alt="Jest logo" width="41px" height="41px"></a>
